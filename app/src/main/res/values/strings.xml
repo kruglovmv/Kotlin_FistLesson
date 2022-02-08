@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin_Lesson1</string>
+    <string name="activity_main_button_text">GO!!!!</string>
+    <string name="activity_main_text_text_view">Hello World!</string>
+</resources>
